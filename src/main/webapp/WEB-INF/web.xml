@@ -1,0 +1,13 @@
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>ResgistroServlet</servlet-name>
+  	<display-name>ResgistroServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.soundclub.controllers.ResgistroServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ResgistroServlet</servlet-name>
+  	<url-pattern>/ResgistroServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
