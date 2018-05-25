@@ -1,7 +1,5 @@
 package com.soundclub.database;
 
-
-
 import java.util.ArrayList;
 import java.util.List;
 
